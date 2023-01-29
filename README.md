@@ -23,7 +23,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#)  [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)  [![scikit-learn Badge](https://img.shields.io/badge/-SckikitLearn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)
 
-#### _Other Technologies_
+### Other Technologies (Still Learning/Know only a Little)
 [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Django-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Flask-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 
 <br />
