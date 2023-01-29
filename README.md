@@ -2,17 +2,17 @@
 
 I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I code most of the time. When I'm not coding, I'm thinking about coding.
 
-### :mailbox: Find me;
+### Find Me;
 
 [![Twitter Badge](https://img.shields.io/badge/-vincent-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Gmail Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/) [![Medium Badge](https://img.shields.io/badge/-makokha_omondi-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@makokhavomondi)
 
-<!-- TODO: Add last video link -->
+### About Me
 
 - 🔭 I’m currently a learning Typescript
 - :computer: Most used line of code `git commit --amend -v`
 - 🤔 I’m looking for help working with Python ML models in Ruby on Rails backend
 - 😄 Pronouns: they/them.
-- ⚡ Fun fact: I listen to music while watching Youtube tutorials a lot.
+- ⚡ Fun fact: I love Ruby on Rails
 
 ### Top Technologies
 
