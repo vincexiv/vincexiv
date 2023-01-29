@@ -11,7 +11,6 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 - 🔭 I’m currently a learning Typescript
 - :computer: Most used line of code `git commit --amend -v`
 - 🤔 I’m looking for help integrating ML models done in Python to Ruby on Rails backend
-- 📫 How to reach me: makokhavomondi@gmail.com.
 - 😄 Pronouns: they/them.
 - ⚡ Fun fact: I listen to music while watching Youtube tutorials a lot.
 
