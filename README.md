@@ -38,3 +38,12 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 #### Github Stats
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincexiv&count_private=true&theme=tokyonight&hide=contribs,prs)
+  
+
+<!-- Important sites
+1. https://raw.githubusercontent.com/ipenywis/ipenywis/master/README.md
+2. shields.io
+3. https://github.com/alexandresanlim/Badges4-README.md-Profile
+4. https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+5. https://simpleicons.org/?q=typescript
+-->
