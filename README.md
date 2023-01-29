@@ -29,16 +29,21 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)  [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#)  [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#)
 
+<br />
+
 ![ML Badge](https://img.shields.io/badge/-MACHINE_LEARNING-white?style=for-the-badge&labelColor=WHITE)
 <br />
 
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#)  [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)  [![scikit-learn Badge](https://img.shields.io/badge/-SckikitLearn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)  [![RStudio Badge](https://img.shields.io/badge/-R-75AADB?style=for-the-badge&labelColor=black&logo=rstudio&logoColor=75AADB)](#)  [![Tidyverse Badge](https://img.shields.io/badge/-Tydiverse-1A162D?style=for-the-badge&labelColor=black&logo=tidyverse&logoColor=#1A162D)](#)  [![Plotly Badge](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&labelColor=black&logo=plotly&logoColor=3F4F75)](#)
+
+<br />
 
 ![DATA_ANALYSIS Badge](https://img.shields.io/badge/-DATA_ANALYSIS-white?style=for-the-badge&labelColor=WHITE)
 <br />
 
 [![Microsoft Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![Jupyter Badge](https://img.shields.io/badge/-=Jupyter_Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)](#)
 
+<br />
 
 ### Other Technologies
 These are technologies I'm still learning/I can work with, but haven't used that much recently
