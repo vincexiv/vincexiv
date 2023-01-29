@@ -32,9 +32,9 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 <br />
 <br />
 
-#### Profile Visits 
+### Profile Visits 
 
-[![visitors]](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
 
 <details>
 <summary>
