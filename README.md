@@ -22,7 +22,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 #### _Back End Web Development_
 
-[![Nodejs Badge](https://img.shields.io/badge/-Ruby-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Ruby_on_Rails-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Sinatra-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)  [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#)  [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=000000)](#)
 
 #### _Data Analytics/Data Science_
 
