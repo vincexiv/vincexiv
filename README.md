@@ -29,10 +29,6 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 <br />
 <br />
 
-### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
-
 <details>
 <summary>
   More stuff about me
@@ -44,6 +40,10 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 #### Github Stats
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincexiv&count_private=true&theme=tokyonight&hide=contribs,prs)
+  
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
   
 
 <!-- Important sites
