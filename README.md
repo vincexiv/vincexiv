@@ -18,7 +18,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-e535ab?style=for-the-badge&labelColor=black&logo=typescript&logoColor=e535ab)](#)
 
 <br />
 <br />
