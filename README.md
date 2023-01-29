@@ -21,7 +21,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)  [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#)  [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#)
 
-[![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![pandas Badge](https://img.shields.io/badge/-Pandas-007acc?style=for-the-badge&labelColor=black&logo=pandas&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Matplotlib-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![NumPy Badge](https://img.shields.io/badge/-NumPy-007acc?style=for-the-badge&labelColor=black&logo=numpy&logoColor=3776AB)](#)  [![scikit-learn Badge](https://img.shields.io/badge/-SckikitLearn-007acc?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=3776AB)](#)
 
 #### _Other Technologies_
 [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Django-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Flask-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
