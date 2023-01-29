@@ -45,7 +45,7 @@ These are technologies I'm still learning/I can work with, but haven't used that
 
 #### Github Stats
 
-![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincexiv&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=what&count_private=true&theme=tokyonight&hide=contribs,prs)
   
 #### Profile Visits 
 
