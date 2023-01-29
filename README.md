@@ -4,7 +4,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-vincent-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Mail Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-e84393?style=flat&labelColor=e84393&logo=email&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-e84393?style=flat&labelColor=#0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/)
+[![Twitter Badge](https://img.shields.io/badge/-vincent-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Mail Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-e84393?style=flat&labelColor=e84393&logo=email&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-e84393?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/)
 
 <!-- TODO: Add last video link -->
 
