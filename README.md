@@ -17,7 +17,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 ### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)  [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)  [![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)  [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)  [![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)  [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#)  [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#)
 
@@ -27,7 +27,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 These are technologies I'm still learning or know only a little
 <br />
 
-[![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
 
 <br />
 <br />
