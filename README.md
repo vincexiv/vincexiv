@@ -23,7 +23,6 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)  [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)  [![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 <br />
-<br />
 
 ![BACKEND Badge](https://img.shields.io/badge/-BACK_END-white?style=for-the-badge&labelColor=WHITE)
 <br />
