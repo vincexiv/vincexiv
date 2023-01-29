@@ -22,11 +22,14 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 #### _Back End Web Development_
 
-[![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Ruby-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Ruby_on_Rails-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Sinatra-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 
 #### _Data Analytics/Data Science_
 
-[![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)    
+[![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+
+#### _Other Technologies_
+[![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Django-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![Python Badge](https://img.shields.io/badge/-Flask-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 
 <br />
 <br />
