@@ -8,12 +8,12 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a freelance developer
+- 🔭 I’m currently a learning Typescript
 - :computer: Most used line of code `git commit --amend -v`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m looking for help integrating ML models done in Python to Ruby on Rails backend
 - 📫 How to reach me: makokhavomondi@gmail.com.
-- 😄 Pronouns: They/Them.
-- ⚡ Fun fact: I sometimes listen to music while watching Youtube tutorials.
+- 😄 Pronouns: they/them.
+- ⚡ Fun fact: I listen to music while watching Youtube tutorials a lot.
 
 #### Top Technologies
 
@@ -23,8 +23,6 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 <br />
 <br />
-
-
 
 #### Profile Visits 
 
