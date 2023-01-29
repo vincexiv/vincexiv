@@ -2,9 +2,9 @@
 
 I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I code most of the time. When I'm not coding, I'm thinking about coding.
 
-:mailbox: Reach me out!
+:mailbox: Find me;
 
-[![Twitter Badge](https://img.shields.io/badge/-vincent-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Email Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-e84393?style=flat&labelColor=e84393&logo=email&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/)
+[![Twitter Badge](https://img.shields.io/badge/-vincent-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Email Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-e84393?style=flat&labelColor=e84393&logo=email&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/) [![Medium Badge](https://img.shields.io/badge/-makokha_omondi-000000?style=flat&labelColor=000000&logo=linkedin&logoColor=white)](https://medium.com/@makokhavomondi)
 
 <!-- TODO: Add last video link -->
 
