@@ -82,9 +82,9 @@ These are technologies I'm still learning/I have worked with but only a little
 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect expertice or skill level.
 
-#### Github contribution graph
+<!-- #### Github contribution graph
 
-[![Vincent's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vincexiv&theme=tokyonight)](https://github.com/vincexiv/github-readme-activity-graph)
+[![Vincent's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vincexiv&theme=tokyonight)](https://github.com/vincexiv/github-readme-activity-graph) -->
   
 
 <!-- Important sites
