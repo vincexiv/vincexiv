@@ -48,7 +48,6 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 [![Microsoft Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![Jupyter Badge](https://img.shields.io/badge/-=Jupyter_Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)](#)
 
-<br />
 
 ### Other Technologies
 These are technologies I'm still learning/I have worked with but only a little
@@ -56,7 +55,6 @@ These are technologies I'm still learning/I have worked with but only a little
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)  
 
-<br />
 <br />
 
 <details>
