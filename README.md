@@ -70,7 +70,7 @@ These are technologies I'm still learning/I have worked with but only a little
   
 #### Profile Visits 
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
   
 
 <!-- Important sites
