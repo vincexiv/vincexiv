@@ -2,6 +2,8 @@
 
 I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I code most of the time. When I'm not, I'm fixing bugs in my head.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
+
 ### Find Me;
 
 [![Twitter Badge](https://img.shields.io/badge/-vincent555__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Gmail Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/) [![Medium Badge](https://img.shields.io/badge/-makokha_omondi-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@makokhavomondi)
@@ -67,10 +69,6 @@ These are technologies I'm still learning/I have worked with but only a little
 #### Github Stats
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincexiv&count_private=true&theme=tokyonight&hide=contribs,prs)
-  
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
   
 
 <!-- Important sites
