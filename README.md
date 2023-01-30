@@ -72,17 +72,17 @@ These are technologies I'm still learning/I have worked with but only a little
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincexiv&count_private=true&theme=tokyonight&hide=contribs,prs)
   
 
-## My Github stats
+<!-- #### My Github stats
 
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincexiv&show_icons=true&theme=tokyonight)
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincexiv&show_icons=true&theme=tokyonight) -->
 
-## Most Used Languages
+#### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincexiv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect expertice or skill level.
 
-## Github contribution graph
+#### Github contribution graph
 
 [![Vincent's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vincexiv&theme=tokyonight)](https://github.com/vincexiv/github-readme-activity-graph)
   
