@@ -59,7 +59,7 @@ These are technologies I'm still learning/I have worked with but only a little
 
 <details>
 <summary>
-  More stuff about me
+  ### More stuff about me
 </summary>
 
 <br >
