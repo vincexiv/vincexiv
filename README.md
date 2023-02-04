@@ -76,7 +76,7 @@ These are technologies I'm still learning/I have worked with but only a little
 
 #### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincexiv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincexiv&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect expertice or skill level.
 
