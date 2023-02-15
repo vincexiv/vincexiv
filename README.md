@@ -11,7 +11,8 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 
 ### About Me
 
-- 🔭 I’m currently learning Typescript & AngularJs
+- 🔭 I’m currently building [elewa group](https://github.com/italanta/elewa-group)
+- 🔭 I'm currently learning Typescript & AngularJs
 - :computer: Most used line of code `git commit -m <whatever>`
 - 🤔 I’m looking for help working with Python ML models in Ruby on Rails backend
 - 😄 Pronouns: they/them.
