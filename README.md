@@ -15,7 +15,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 - 🔭 I'm currently learning Typescript & AngularJs
 - :computer: Most used line of code `git commit -m <whatever>`
 - 🤔 I’m looking for help working with Python ML models in Ruby on Rails backend
-- 😄 Pronouns: they/them.
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Ruby on Rails
 
 ### Top Technologies
