@@ -10,10 +10,9 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 [![Twitter Badge](https://img.shields.io/badge/-vincent555__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Gmail Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/) [![Medium Badge](https://img.shields.io/badge/-vincent_makokha-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@vincent.makokha)
 
 ### About Me
-
-- 🔭 I’m currently building [elewa group](https://github.com/italanta/elewa-group)
+- 🔭 I’m currently doing internship at [iTalanta](https://github.com/italanta)
+- 🔭 I’m currently helping build [elewa group website](https://github.com/italanta/elewa-group)
 - 🔭 I'm currently learning Typescript & AngularJs
-- :computer: Most used line of code `git commit -m <whatever>`
 - 🤔 I’m looking for help working with Python ML models in Ruby on Rails backend
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Ruby on Rails
