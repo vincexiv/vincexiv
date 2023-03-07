@@ -13,7 +13,6 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 - 🔭 I’m currently doing internship at [iTalanta](https://github.com/italanta)
 - 🔭 I’m currently helping build [elewa group website](https://github.com/italanta/elewa-group)
 - 🔭 I'm currently learning Typescript & AngularJs
-- 🤔 I’m looking for help working with Python ML models in Ruby on Rails backend
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Ruby on Rails
 
