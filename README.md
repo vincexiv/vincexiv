@@ -13,7 +13,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 - 🔭 I am a freelance web developer/data analyst
 - 🔭 I am currently building [Xaenr](https://xaenr.netlify.app),
 - 🔭 I am currently working as a software engineer at [iTalanta](https://github.com/italanta) where I'm helping build [elewa group website](https://github.com/italanta/elewa-group) and [conversational learning management tool](https://github.com/italanta/elewa).
-- 🔭 I'm also an assistant mentor for budding data analysts at [TechUp Africa](https://www.pawen.org/techup-africa), where I am also polishing my data science skills with [DataQuest](https://www.dataquest.io/).
+- 🔭 I'm an assistant mentor for budding data analysts at [TechUp Africa](https://www.pawen.org/techup-africa) where I am also polishing my data science skills with [DataQuest](https://www.dataquest.io/).
 - 🔭 I am also working on [my portfolio](https://github.com/vincexiv/portfolio-react)
 - 🔭 I am currently learning AngularJs.
 - 😄 Pronouns: they/them
