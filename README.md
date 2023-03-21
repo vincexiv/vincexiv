@@ -10,10 +10,7 @@ I am Vincent Makokha, a Full Stack Web Developer and a part time Data Analyst. I
 [![Twitter Badge](https://img.shields.io/badge/-vincent555__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![Gmail Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:makokhavomondi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/) [![Medium Badge](https://img.shields.io/badge/-vincent_makokha-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@vincent.makokha)
 
 ### About Me
-- 🔭 I’m currently building [Xaenr](https://xaenr.netlify.app)
-- 🔭 I’m currently doing internship at [iTalanta](https://github.com/italanta)
-- 🔭 I’m currently helping build [elewa group website](https://github.com/italanta/elewa-group)
-- 🔭 I'm currently learning Typescript & AngularJs
+- 🔭 I am a freelance web developer/data analyst. I'm currently building [Xaenr](https://xaenr.netlify.app), working as a software engineer at [iTalanta](https://github.com/italanta) where I'm helping build [elewa group website](https://github.com/italanta/elewa-group) and [conversational learning management](https://github.com/italanta/elewa). I'm also an assistant mentor for budding data analysts at [TechUp Africa](https://www.pawen.org/techup-africa), where I am also polishing my data science skills with [DataQuest](https://www.dataquest.io/). Oh, and I am also working on [my portfolio](https://github.com/vincexiv/portfolio-react), while learning AngularJs.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Ruby on Rails
 
