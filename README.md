@@ -57,14 +57,14 @@ I am Vincent Makokha, a certified Full Stack Web Developer and Data Analyst.
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)  
 
-<br />
+<!-- <br />
 
 <details>
 <summary>
   More stuff about me
 </summary>
 
-<br >
+<br > -->
 
 
 #### Github Stats
