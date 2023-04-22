@@ -16,8 +16,6 @@ I am Vincent Makokha, a certified Full Stack Web Developer and Data Analyst.
 - 🔭 I am currently building [Xaenr](https://xaenr.netlify.app),
 - 🔭 I am currently working interning [iTalanta](https://github.com/italanta) where I'm helping build [elewa group website](https://github.com/italanta/elewa-group) and [conversational learning management tool](https://github.com/italanta/elewa).
 - 🔭 I'm an assistant mentor for budding data analysts at [TechUp Africa](https://www.pawen.org/techup-africa) where I am also polishing my data science skills with [DataQuest](https://www.dataquest.io/).
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I love Ruby on Rails
 
 ### Top Technologies
 
