@@ -24,12 +24,15 @@ I am Vincent Makokha, a certified Full Stack Web Developer and Data Analyst.
 <!-- ![FRONTEND Badge](https://img.shields.io/badge/-FRONT_END-white?style=for-the-badge&labelColor=WHITE)
 <br /> -->
 
-[![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
- [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#) [![Microsoft Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![Jupyter Badge](https://img.shields.io/badge/-=Jupyter_Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)](#)
+[![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) <br/>
+[![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) <br />
+[![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#) <br />
+[![Microsoft Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) <br />
+[![Jupyter Badge](https://img.shields.io/badge/-=Jupyter_Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)](#)
 
 
 <!-- <br /> -->
-#### Good
+<!-- #### Good -->
 <!-- ![BACKEND Badge](https://img.shields.io/badge/-BACK_END-white?style=for-the-badge&labelColor=WHITE) -->
 <!-- <br /> -->
 <!-- [![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) -->
@@ -38,7 +41,7 @@ I am Vincent Makokha, a certified Full Stack Web Developer and Data Analyst.
 <!-- [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)    [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#) -->
 
 <!-- <br /> -->
-#### Familiar
+<!-- #### Familiar -->
 <!-- ![ML Badge](https://img.shields.io/badge/-MACHINE_LEARNING-white?style=for-the-badge&labelColor=WHITE) -->
 <!-- <br /> -->
 <!-- [![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#) [![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#)  [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)  [![scikit-learn Badge](https://img.shields.io/badge/-SckikitLearn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#) -->
@@ -52,10 +55,10 @@ I am Vincent Makokha, a certified Full Stack Web Developer and Data Analyst.
 
 
 
-### Other Technologies
-<br />
+<!-- ### Other Technologies -->
+<!-- <br /> -->
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)  
+<!-- [![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  [![Nodejs Badge](https://img.shields.io/badge/-NodeJs-3776AB?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3776AB)](#)  [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)   -->
 
 <!-- <br />
 
