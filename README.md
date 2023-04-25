@@ -19,36 +19,37 @@ I am Vincent Makokha, a certified Full Stack Web Developer and Data Analyst.
 
 ### Top Technologies
 
-#### Proficient
+<!-- #### Proficient -->
 <!-- TODO: Make technologies links takes you to repositories -->
 <!-- ![FRONTEND Badge](https://img.shields.io/badge/-FRONT_END-white?style=for-the-badge&labelColor=WHITE)
 <br /> -->
 
-[![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#)
+[![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+ [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#) [![Microsoft Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![Jupyter Badge](https://img.shields.io/badge/-=Jupyter_Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)](#)
+
 
 <!-- <br /> -->
 #### Good
 <!-- ![BACKEND Badge](https://img.shields.io/badge/-BACK_END-white?style=for-the-badge&labelColor=WHITE) -->
 <!-- <br /> -->
-
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)    [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#)
+<!-- [![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) -->
+<!-- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) -->
+<!-- [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) -->
+<!-- [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)    [![Ruby Sinatra Badge](https://img.shields.io/badge/-Sinatra-000000?style=for-the-badge&labelColor=black&logo=rubysinatra&logoColor=white)](#) -->
 
 <!-- <br /> -->
 #### Familiar
 <!-- ![ML Badge](https://img.shields.io/badge/-MACHINE_LEARNING-white?style=for-the-badge&labelColor=WHITE) -->
 <!-- <br /> -->
-[![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#) [![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#)  [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)  [![scikit-learn Badge](https://img.shields.io/badge/-SckikitLearn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)
+<!-- [![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#) [![pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#)  [![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)  [![scikit-learn Badge](https://img.shields.io/badge/-SckikitLearn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#) -->
 
-[![RStudio Badge](https://img.shields.io/badge/-R-75AADB?style=for-the-badge&labelColor=black&logo=rstudio&logoColor=75AADB)](#)  [![Tidyverse Badge](https://img.shields.io/badge/-Tydiverse-1A162D?style=for-the-badge&labelColor=black&logo=tidyverse&logoColor=#1A162D)](#)  [![Plotly Badge](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&labelColor=black&logo=plotly&logoColor=3F4F75)](#)
+<!-- [![RStudio Badge](https://img.shields.io/badge/-R-75AADB?style=for-the-badge&labelColor=black&logo=rstudio&logoColor=75AADB)](#)  [![Tidyverse Badge](https://img.shields.io/badge/-Tydiverse-1A162D?style=for-the-badge&labelColor=black&logo=tidyverse&logoColor=#1A162D)](#)  [![Plotly Badge](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&labelColor=black&logo=plotly&logoColor=3F4F75)](#) -->
 
-<br />
+<!-- <br /> -->
 
-![DATA_ANALYSIS Badge](https://img.shields.io/badge/-DATA_ANALYSIS-white?style=for-the-badge&labelColor=WHITE)
-<br />
+<!-- ![DATA_ANALYSIS Badge](https://img.shields.io/badge/-DATA_ANALYSIS-white?style=for-the-badge&labelColor=WHITE) -->
+<!-- <br /> -->
 
-[![Microsoft Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=217346)](#) [![Jupyter Badge](https://img.shields.io/badge/-=Jupyter_Notebook-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)](#)
 
 
 ### Other Technologies
