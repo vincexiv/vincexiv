@@ -1,6 +1,6 @@
 ## Hi I'm Vincent <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I am Vincent Makokha, a certified Full Stack Web Developer and Data Analyst.
+Welcome to my world!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
 
