@@ -2,7 +2,7 @@
 
 Welcome to my world!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv) -->
 
 
 ### Find Me
