@@ -64,7 +64,7 @@ Welcome to my world!
 
 <details>
 <summary>
-  More stuff about me
+  More stuff
 </summary>
 
 <br >
