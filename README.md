@@ -5,7 +5,7 @@ Welcome to my world!
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv) -->
 
 
-### Find Me
+<!-- ### Find Me -->
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-makokhavomondi@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:makokhavomondi@gmail.com) -->
 
