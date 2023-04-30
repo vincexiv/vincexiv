@@ -15,7 +15,6 @@ Welcome to my world!
 - 🔭 I am a freelance web developer/data analyst
 - 🔭 I am currently working on [Xaenr](https://xaenr.netlify.app), a one-shot image recognition algorithm. It will be open for contribution soon. For now, you can checkout the progress [here](https://github.com/VinceXIV/open-image)
 - 🔭 I am currently interning at [iTalanta](https://github.com/italanta) where I'm helping build [elewa group website](https://github.com/italanta/elewa-group) and [conversational learning management tool](https://github.com/italanta/elewa).
-- 🔭 I'm an assistant mentor for budding data analysts at [TechUp Africa](https://www.pawen.org/techup-africa) where I am also polishing my data science skills with [DataQuest](https://www.dataquest.io/).
 
 ### Top Technologies
 
