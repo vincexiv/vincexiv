@@ -14,9 +14,9 @@ Welcome to my world!
 ### About Me
 - 🔭 I am a freelance web developer/data analyst
 - 🔭 I am currently working on [Intradr](https://www.intradr.netlify.app), a portfolio management website that will have the following features by the end
-- - Get optmal weights of assets. One can pick the stocks he wishes to invest in, and get the site to calcluate for them what percentage of their money they should put to each of the stocks so as to optimize metrics such as the sharpe ratio, sortino ratio, etc. Users can also optimize based on custom variables (there is a canvas where users can create new variables)
-- - Users can create several sub-portfolios each optimized based on different metrics and combine them to create the main one
-- - Users can then proceed to buy the stock with their preferred stock brokers. However, if they wish to buy through the site, they are entitled to automatic rebalancing of their portfolio to match their strategy. One can, for instance, set their portfolio to be rebalanced every quarter
+ - Get optmal weights of assets. One can pick the stocks he wishes to invest in, and get the site to calcluate for them what percentage of their money they should put to each of the stocks so as to optimize metrics such as the sharpe ratio, sortino ratio, etc. Users can also optimize based on custom variables (there is a canvas where users can create new variables)
+ - Users can create several sub-portfolios each optimized based on different metrics and combine them to create the main one
+ - Users can then proceed to buy the stock with their preferred stock brokers. However, if they wish to buy through the site, they are entitled to automatic rebalancing of their portfolio to match their strategy. One can, for instance, set their portfolio to be rebalanced every quarter
 - 🔭 I am currently working on [Xaenr](https://www.xaenr.netlify.app), a one-shot image recognition algorithm. It will be open for contribution soon. For now, you can checkout the progress [here](https://github.com/VinceXIV/open-image)
 
 ### Top Technologies
