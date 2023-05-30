@@ -13,7 +13,7 @@ Welcome to my world!
 
 ### About Me
 - 🔭 I am a freelance web developer/data analyst
-- 🔭 I am currently working on [Intradr](https://www.intradr.netlify.app), a portfolio management website that will have the following features by the end
+- 🔭 I am currently working on [Intradr](https://www.intradr.netlify.app), a portfolio management website whose features will include the following when it is completed
  **(1)** Get optmal weights of assets. One can pick the stocks he wishes to invest in, and get the site to calcluate for them what percentage of their money they should put to each of the stocks so as to optimize metrics such as the sharpe ratio, sortino ratio, etc. Users can also optimize based on custom variables (there is a canvas where users can create new variables)
  **(2)** Users can create several sub-portfolios each optimized based on different metrics and combine them to create the main one
  **(3)** Users can then proceed to buy the stock with their preferred stock brokers. However, if they wish to buy through the site, they are entitled to automatic rebalancing of their portfolio to match their strategy. One can, for instance, set their portfolio to be rebalanced every quarter
