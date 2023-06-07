@@ -13,8 +13,8 @@ Welcome to my world!
 
 ### About Me
 - 🔭 I am a freelance web developer/data analyst
-- 🔭 I started as a Biochemist and would like to have a way back into it
-- 🔭 I am currently working on [Intradr](https://intradr.netlify.app) and [Xaenr](https://xaenr.netlify.app)
+- 🔭 I started as a Biochemist and would love to have a way back into it with my tech skills
+- 🔭 I am currently working on [Xaenr](https://xaenr.netlify.app)
 
 ### Top Technologies
 
