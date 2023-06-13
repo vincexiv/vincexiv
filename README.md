@@ -11,10 +11,13 @@ Welcome to my world!
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-vincent555__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/) [![Medium Badge](https://img.shields.io/badge/-vincent_makokha-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@vincent.makokha) -->
 
-### About Me
-- 🔭 I am a freelance web developer/data analyst
-- 🔭 I started as a Biochemist and would love to have a way back into it with my tech skills
-- 🔭 I am currently working on [Xaenr](https://xaenr.netlify.app)
+### My Interests
+- **Data Science / Data Analytics**: Python, R, Stata, Excel, Jupyter Notebook, Quantitative Finance etc.
+- **Web Development**: full stack, front end, back end
+- I started as a Biochemist and would love to have a way back into it with my tech skills
+- I am currently working on [Xaenr](https://xaenr.netlify.app)
+
+Have any suggestion? Would like to collaborate on any project in the above areas? hit me up.
 
 ### Top Technologies
 
