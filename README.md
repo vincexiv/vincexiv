@@ -12,9 +12,7 @@
 ### My Interests
 - **Data Science & Data Analytics**: Python, R, Stata, Excel, Jupyter Notebook, Quantitative Finance
 - **Web Development**: full stack, front end, back end - ReactJs, Ruby on Rails, DevOps
-
-### Fun Fact
-- I am a trained Biochemist
+- **Biochemistry & Biotechnology**
 
 ### Top Technologies
 
