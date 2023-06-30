@@ -1,7 +1,5 @@
 ## Hi, I'm Vincent <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I can't believe you found me happy 😊
-
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv) -->
 
 
@@ -12,16 +10,11 @@ I can't believe you found me happy 😊
 <!-- [![Twitter Badge](https://img.shields.io/badge/-vincent555__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vincent555_)](https://twitter.com/vincent555_) [![LinkedIn Badge](https://img.shields.io/badge/-vincent_makokha-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-makokha/) [![Medium Badge](https://img.shields.io/badge/-vincent_makokha-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@vincent.makokha) -->
 
 ### My Interests
-- **Data Science & Data Analytics**: Python, R, Stata, Excel, Jupyter Notebook, Quantitative Finance etc.
-- **Web Development**: full stack, front end, back end - ReactJs, Ruby on Rails, DevOps, etc
+- **Data Science & Data Analytics**: Python, R, Stata, Excel, Jupyter Notebook, Quantitative Finance
+- **Web Development**: full stack, front end, back end - ReactJs, Ruby on Rails, DevOps
 
 ### Fun Fact
-- I am a trained Biochemtist
-
-### Currently
-- I am currently working on [Xaenr](https://xaenr.netlify.app)
-
-Have any suggestion? Would like to collaborate on any project in the above areas? hit me up.
+- I am a trained Biochemist
 
 ### Top Technologies
 
