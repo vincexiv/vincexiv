@@ -14,7 +14,7 @@
 - **Web Development**: full stack, front end, back end - ReactJs, Ruby on Rails, DevOps
 - **Biochemistry & Biotechnology**
 
-### Top Technologies
+### Technologies I Mostly Use
 
 <!-- #### Proficient -->
 <!-- TODO: Make technologies links takes you to repositories -->
