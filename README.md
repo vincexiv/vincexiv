@@ -20,7 +20,7 @@
 <!-- TODO: Make technologies links takes you to repositories -->
 <!-- ![FRONTEND Badge](https://img.shields.io/badge/-FRONT_END-white?style=for-the-badge&labelColor=WHITE)
 <br /> -->
- [![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)]
+[![Vue.js Badge](https://img.shields.io/badge/-Vue_Js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)] <br/>
 [![React Badge](https://img.shields.io/badge/-React_Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) <br/>
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) <br />
 [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=CC0000)](#) <br />
