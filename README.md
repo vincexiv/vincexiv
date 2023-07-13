@@ -14,7 +14,7 @@
 - **Data Science & Data Analytics**
 - **Biochemistry & Biotechnology**
 
-### Technologies I Mostly Use
+<!-- ### Technologies I Mostly Use -->
 
 <!-- #### Proficient -->
 <!-- TODO: Make technologies links takes you to repositories -->
