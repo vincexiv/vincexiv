@@ -1,5 +1,6 @@
 ## Hi, I'm Vincent <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+Welcome to my world
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vincexiv.vincexiv) -->
 
 
@@ -82,10 +83,11 @@
 #### Most Used Languages
 -->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincexiv&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect expertice or skill level.
-
+-->
 <!-- #### Github contribution graph
 
 [![Vincent's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vincexiv&theme=tokyonight)](https://github.com/vincexiv/github-readme-activity-graph) -->
