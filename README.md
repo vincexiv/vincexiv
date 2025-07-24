@@ -6,6 +6,6 @@ Here you will mostly find projects I created while reading certain books or lear
 
 I am mostly a backend / cloud engineer, but I am also quite competent in front end and data science. I would like to think of myself as a jack of all trades, master of one (or is it two :thinking: ?)
 
-Again, welcome to my world. Hope you enjoy
+Again, welcome to my world
 
 Cheers
