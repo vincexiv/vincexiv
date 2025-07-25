@@ -7,5 +7,3 @@ Here you will mostly find projects I created while reading certain books or lear
 I am mostly a backend / cloud engineer, but I have also had some significant experience working in data science end front end development
 
 Again, welcome to my world
-
-Cheers
