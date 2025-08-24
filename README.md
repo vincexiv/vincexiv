@@ -2,5 +2,4 @@
 
 - Backend / Cloud engineer
 - AWS, Docker, Bash, Git, PHP, Ruby, VueJs, ReactJs, RxJs, D3.Js, Python, Excel, etc.,
-- Check out some of my work at [gettive.com](https://www.gettive.com), and [mediaspaces.app](https://www.mediaspaces.app)
 - I sing, sometimes
