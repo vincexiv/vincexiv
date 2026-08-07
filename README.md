@@ -5,6 +5,5 @@ Nice to meet you!
 - If you want to see my work on cloud, backend, platform, & DevOps related stuff, checkout [gettive](https://www.github.com/gettive)
 - If you want to see my research oriented work, checkout [hex-ultra](https://www.github.com/hex-ultra)
 - If you want to see me try out stuff, learn different (often unrelated) topics, stay [here](https://www.github.com/vincexiv)
-- You might also want to checkout [Pichani](https://www.github.com/pichani-app)
 
 Cheers!
